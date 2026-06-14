@@ -1,0 +1,76 @@
+{
+  "data": "Живёт в воде?",
+  "is_question": true,
+  "yes": {
+    "data": "Это рыба?",
+    "is_question": true,
+    "yes": {
+      "data": "щука",
+      "is_question": false,
+      "yes": null,
+      "no": null
+    },
+    "no": {
+      "data": "дельфин",
+      "is_question": false,
+      "yes": null,
+      "no": null
+    }
+  },
+  "no": {
+    "data": "Ест мясо?",
+    "is_question": true,
+    "yes": {
+      "data": "Воет ли это животное на луну?",
+      "is_question": true,
+      "yes": {
+        "data": "волк",
+        "is_question": false,
+        "yes": null,
+        "no": null
+      },
+      "no": {
+        "data": "тигр",
+        "is_question": false,
+        "yes": null,
+        "no": null
+      }
+    },
+    "no": {
+      "data": "Живет ли это животное на ферме?",
+      "is_question": true,
+      "yes": {
+        "data": "У него длинные уши?",
+        "is_question": true,
+        "yes": {
+          "data": "кролик",
+          "is_question": false,
+          "yes": null,
+          "no": null
+        },
+        "no": {
+          "data": "есть борода?",
+          "is_question": true,
+          "yes": {
+            "data": "козел",
+            "is_question": false,
+            "yes": null,
+            "no": null
+          },
+          "no": {
+            "data": "корова",
+            "is_question": false,
+            "yes": null,
+            "no": null
+          }
+        }
+      },
+      "no": {
+        "data": "слон",
+        "is_question": false,
+        "yes": null,
+        "no": null
+      }
+    }
+  }
+}
