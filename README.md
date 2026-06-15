@@ -14,6 +14,6 @@
 ## Как запустить
 ```bash
 python main.py
-
+```
 ## Видео описание
 https://drive.google.com/drive/folders/1Y6K4IoJANwzEmk0_6_ovDo5JcPy2agm4?usp=share_link
